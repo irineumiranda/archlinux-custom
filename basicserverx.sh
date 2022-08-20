@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-pacman -S xorg-server xorg-xinit xorg-apps
+sudo pacman -Syu xorg-server xorg-xinit 
